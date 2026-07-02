@@ -5,36 +5,22 @@
 This project was developed as my **CBSE Class 12 Informatics Practices Final Practical Project**. It is a Python-based Student Performance Analytics System that analyzes and visualizes students' academic performance using data analysis and visualization techniques.
 
 ## Features
-
-- 📈 Individual Student Performance Analysis
-- 📊 Year-wise Performance Comparison
-- 📚 Subject-wise Analysis
-- 📉 Session-wise Comparison
-- 📊 Graphical Visualization using Matplotlib
+- Student marks analysis
+- Graph generation
+- Performance comparison
 
 ## Technologies Used
-
 - Python
-- Pandas
 - NumPy
+- Pandas
 - Matplotlib
 
-## Project Structure
+## How to Run
+1. Clone the repository
+2. Install requirements
+3. Run Project.py
 
-```
-Project.py
-CodeX.py
-CodeP.py
-```
+## Screenshots
+(Add screenshots)
 
-## Future Improvements
-
-- GUI Interface
-- AI-based Performance Prediction
-- PDF Report Generation
-- Web Dashboard
-- MySQL
-
----
-
-**Developed by Shivang Tripathi**.
+## Future Improvements.
